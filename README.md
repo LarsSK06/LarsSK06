@@ -2,7 +2,7 @@
 #### - 🏫 IT and media student<br>
 #### - 🌍 Norway
 
-## PROGRAMMING LANGUAGES:
+## ⌨️ PROGRAMMING LANGUAGES:
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
@@ -11,7 +11,7 @@
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 - [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
-## SOFTWARE:
+## : SOFTWARE:
 - [Blender](https://www.blender.org/)
 - [Unity](https://unity.com/)
 - [Illustrator](https://www.adobe.com/no/products/illustrator.html?gclid=CjwKCAjw8-OhBhB5EiwADyoY1QcSCGdNmE3unk9fNUOmnPJeHZsJEptVGMSm52W1U--uS8O0afU8wBoCAP0QAvD_BwE&mv=search&mv=search&sdid=KCJMVLF6&ef_id=CjwKCAjw8-OhBhB5EiwADyoY1QcSCGdNmE3unk9fNUOmnPJeHZsJEptVGMSm52W1U--uS8O0afU8wBoCAP0QAvD_BwE:G:s&s_kwcid=AL!3085!3!597287462549!e!!g!!adobe%20illustrator!1480122696!60147184954)
