@@ -1,7 +1,6 @@
 ## ABOUT:
 #### - 🏫 IT and media student<br>
 #### - 🌍 Norway
-#### - 🌎 Norwegian/Danish
 
 ## PROGRAMMING LANGUAGES:
 #### - C#
