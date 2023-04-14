@@ -1,3 +1,6 @@
+🏫 IT and media student<br>
+🌍 Norway
+
 ### PROGRAMMING LANGUAGES:
 - C#
 - JavaScript
