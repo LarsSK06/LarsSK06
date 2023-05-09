@@ -3,13 +3,13 @@
 #### - 🌍 Norway
 
 ## ⌨️ PROGRAMMING LANGUAGES:
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-- [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-- [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-- [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language))
-- [HTML](https://en.wikipedia.org/wiki/HTML)
-- [CSS](https://en.wikipedia.org/wiki/CSS)
-- [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+- JavaScript
+- C++
+- C#
+- Lua
+- HTML
+- CSS
+- Python
 
 ## 🖥️ SOFTWARE:
 - [Blender](https://www.blender.org/)
