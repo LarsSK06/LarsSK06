@@ -1,0 +1,21 @@
+{
+    "socials":[
+        {
+            "name":"GitHub",
+            "href":""
+        },
+        {
+            "name":"Instagram",
+            "href":""
+        }
+    ],
+    "contact":[
+        "lars.synslien.kvihaugen@gmail.com",
+        "+47 458 04 342"
+    ],
+    "credentials":[
+        "Lars Synslien Kvihaugen",
+        "Norway",
+        "2023"
+    ]
+}
