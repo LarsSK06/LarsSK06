@@ -2,11 +2,15 @@
     "socials":[
         {
             "name":"GitHub",
-            "href":""
+            "href":"https://github.com/LarsSK06"
         },
         {
             "name":"Instagram",
-            "href":""
+            "href":"https://www.instagram.com/lars.sk_/"
+        },
+        {
+            "name":"Discord",
+            "href":"https://discordapp.com/users/474273057154924545"
         }
     ],
     "contact":[
