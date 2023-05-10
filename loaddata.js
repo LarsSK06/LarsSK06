@@ -12,13 +12,13 @@ async function loadData(){
     if(document.getElementById("contact") != null){
         const cache = document.getElementById("contact");
         for(let i = 0; i < data.contact.length; i++){
-            cache.innerHTML += `${data.contact[i]}\n`;
+            cache.innerHTML += `${data.contact[i]}<br>\n`;
         }
     }
     if(document.getElementById("credentials") != null){
         const cache = document.getElementById("credentials");
         for(let i = 0; i < data.credentials.length; i++){
-            cache.innerHTML += `${data.credentials[i]}\n`;
+            cache.innerHTML += `${data.credentials[i]}<br>\n`;
         }
     }
     console.log("Loaded data!");
