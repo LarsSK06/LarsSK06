@@ -1,3 +1,4 @@
+console.log("Attempting to load data...");
 loadData();
 async function loadData(){
     const response = await fetch("https://raw.githubusercontent.com/LarsSK06/LarsSK06/main/mydata.json");
@@ -20,4 +21,5 @@ async function loadData(){
             cache.innerHTML += `${data.credentials[i]}\n`;
         }
     }
+    console.log("Loaded data!");
 }
