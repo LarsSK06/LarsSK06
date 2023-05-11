@@ -21,5 +21,23 @@
         "Lars Synslien Kvihaugen",
         "Norway",
         "2023"
+    ],
+    "software":[
+        "Blender",
+        "Unity",
+        "Adobe Photoshop",
+        "Adobe Premiere Pro",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe After Effects"
+    ],
+    "programming_languages":[
+        "JavaScript",
+        "Python",
+        "HTML",
+        "CSS",
+        "C#",
+        "Lua",
+        "C++"
     ]
 }
