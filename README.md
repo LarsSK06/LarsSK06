@@ -1,15 +1,13 @@
-## ❓ ABOUT:
-#### - 🏫 IT and media student<br>
-#### - 🌍 Norway
-
 ## ⌨️ PROGRAMMING LANGUAGES:
-- JavaScript
-- C++
-- C#
-- Lua
-- HTML
-- CSS
-- Python
+ | <p float="left">
+    <img src="md/img/js.svg" width="100">
+    <img src="md/img/cpp.svg" width="100">
+    <img src="md/img/cs.svg" width="100">
+    <img src="md/img/html.svg" width="100">
+    <img src="md/img/css.svg" width="100">
+    <img src="md/img/py.svg" width="100">
+    <img src="md/img/lua.svg" width="100">
+</p>
 
 ## 🖥️ SOFTWARE:
 - [Blender](https://www.blender.org/)
