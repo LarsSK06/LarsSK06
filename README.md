@@ -1,12 +1,12 @@
 ## ⌨️ PROGRAMMING LANGUAGES:
 <p float="left">
-    <img src="md/img/js.svg" width="40">
-    <img src="md/img/cpp.svg" width="40">
-    <img src="md/img/cs.svg" width="40">
-    <img src="md/img/html.svg" width="40">
-    <img src="md/img/css.svg" width="40">
-    <img src="md/img/py.svg" width="40">
-    <img src="md/img/lua.svg" width="40">
+    <img src="md/img/js.svg" width="50">
+    <img src="md/img/cpp.svg" width="50">
+    <img src="md/img/cs.svg" width="50">
+    <img src="md/img/html.svg" width="50">
+    <img src="md/img/css.svg" width="50">
+    <img src="md/img/py.svg" width="50">
+    <img src="md/img/lua.svg" width="50">
 </p>
 
 ## 🖥️ SOFTWARE:
