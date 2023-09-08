@@ -1,3 +1,7 @@
+## 👾 ABOUT ME:
+### I am a Norwegian full-stack, game, application and web developer and designer.<br>Currently I go to IT at school, but I do also work at home.
+
+
 ## ⌨️ PROGRAMMING LANGUAGES:
 <div float="left">
     <img src="md/img/js.svg" width="50">
