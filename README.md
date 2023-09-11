@@ -15,7 +15,7 @@
 
 ## 🖥️ SOFTWARE & TOOLS:
 <div float="left">
-    <img src="md/img/blender.svg" width="50" height="50" style="object-fit: contain">
+    <img src="md/img/blender.svg" width="50">
     <img src="md/img/unity.svg" width="50">
     <img src="md/img/adobe_ai.svg" width="50">
     <img src="md/img/adobe_ps.svg" width="50">
