@@ -13,9 +13,9 @@
     <img src="md/img/lua.svg" width="50">
 </div>
 
-## 🖥️ SOFTWARE:
+## 🖥️ SOFTWARE & TOOLS:
 <div float="left">
-    <img src="md/img/blender.svg" width="50">
+    <img src="md/img/blender.svg" width="50" height="50" style="object-fit: contain">
     <img src="md/img/unity.svg" width="50">
     <img src="md/img/adobe_ai.svg" width="50">
     <img src="md/img/adobe_ps.svg" width="50">
@@ -23,4 +23,5 @@
     <img src="md/img/adobe_ae.svg" width="50">
     <img src="md/img/adobe_id.svg" width="50">
     <img src="md/img/vscode.svg" width="50">
+    <img src="md/img/postman.svg" width="50">
 </div>
