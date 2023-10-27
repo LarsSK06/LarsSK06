@@ -11,6 +11,7 @@ I am a Norwegian full-stack, game, application and web developer and designer.<b
     <img src="md/img/css.svg" width="50">
     <img src="md/img/py.svg" width="50">
     <img src="md/img/lua.svg" width="50">
+    <img src="md/img/bat.svg" width="50">
 </div>
 
 ## 🖥️ SOFTWARE & TOOLS:
