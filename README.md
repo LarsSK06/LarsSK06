@@ -25,4 +25,5 @@ I am a Norwegian full-stack, game, application and web developer and designer.<b
     <img src="md/img/adobe_id.svg" width="50">
     <img src="md/img/vscode.svg" width="50">
     <img src="md/img/postman.svg" width="50">
+    <img src="md/img/mongodb.svg" width="50">
 </div>
