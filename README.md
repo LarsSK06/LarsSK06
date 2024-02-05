@@ -28,7 +28,7 @@ Currently, I go to Hamar cathedral school, whilst being an intern at Intility AS
         <img src="md/img/lua.svg" width="50">
     </a>
     <a href="https://www.geeksforgeeks.org/basics-of-batch-scripting/">
-        <img src="md/img/cmd.svg" width="50">
+        <img src="md/img/bat.svg" width="50">
     </a>
     <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4">
         <img src="md/img/ps.svg" width="50">
