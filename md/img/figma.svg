@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3139;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #f37264;
+      }
+
+      .cls-3 {
+        fill: #48ba7f;
+      }
+
+      .cls-4 {
+        fill: #f05023;
+      }
+
+      .cls-5 {
+        fill: #47b8e9;
+      }
+
+      .cls-6 {
+        fill: #8162aa;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="400" cy="400" r="400"/>
+  <path id="path0_fill" data-name="path0 fill" class="cls-3" d="M328.53,614.42c39.45,0,71.47-32.02,71.47-71.47v-71.47h-71.47c-39.45,0-71.47,32.02-71.47,71.47s32.02,71.47,71.47,71.47Z"/>
+  <path id="path1_fill" data-name="path1 fill" class="cls-6" d="M257.05,400c0-39.45,32.02-71.47,71.47-71.47h71.47v142.95h-71.47c-39.45,0-71.47-32.02-71.47-71.47Z"/>
+  <path id="path1_fill-2" data-name="path1 fill" class="cls-4" d="M257.05,257.05c0-39.45,32.02-71.47,71.47-71.47h71.47v142.95h-71.47c-39.45,0-71.47-32.02-71.47-71.47Z"/>
+  <path id="path2_fill" data-name="path2 fill" class="cls-2" d="M400,185.58h71.47c39.45,0,71.47,32.02,71.47,71.47s-32.02,71.47-71.47,71.47h-71.47v-142.95Z"/>
+  <path id="path3_fill" data-name="path3 fill" class="cls-5" d="M542.95,400c0,39.45-32.02,71.47-71.47,71.47s-71.47-32.02-71.47-71.47,32.02-71.47,71.47-71.47,71.47,32.02,71.47,71.47Z"/>
+</svg>
