@@ -1,14 +1,20 @@
 ## 👾 ABOUT ME:
 ### Hey, my name is Lars! 👋
-### I am a Norwegian full-stack, game, application and web developer and designer.<br>Currently I go to IT at school, but I do also work at home.
-### Currently, I go to Hamar cathedral school, whilst being an intern at Intility AS on tuesdays. I am also the production manager at our youth company BitForge UB, where we mostly do development for work.
+#### I am a Norwegian full-stack, game, application and web developer and designer.<br>Currently I go to IT at school, but I do most of work at home.
+#### Currently, I go to Hamar cathedral school, whilst being an part-time intern at Intility AS on tuesdays. I am also the production manager at our youth company BitForge UB, where we mostly do development for work.
 
 <br>
 
 ## 🔡 MORE ABOUT ME:
-### - 👷‍♂️ Intern at Intility AS, Oslo 0191
-### - 👷 Production manager at BitForge UB, Hamar 2315
-### - 👨‍💼 Student at Hamar katedralskole, Hamar 2315
+### 👷‍♂️ Intern at Intility AS
+#### &nbsp; &nbsp; &nbsp;📍 Oslo 0191
+#### &nbsp; &nbsp; &nbsp;⏱️ November 2023 -<br><br>
+### 👷 Production manager at BitForge UB
+#### &nbsp; &nbsp; &nbsp;📍 Hamar, 2315
+#### &nbsp; &nbsp; &nbsp;⏱️ November 2023 -<br><br>
+### 👨‍💼 Student at Hamar katedralskole
+#### &nbsp; &nbsp; &nbsp;📍 Hamar, 2315
+#### &nbsp; &nbsp; &nbsp;⏱️ August 2022 -
 
 <br>
 
