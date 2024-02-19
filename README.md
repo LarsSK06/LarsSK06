@@ -7,7 +7,7 @@
 
 ## 🔡 MORE ABOUT ME:
 ### 👷‍♂️ Intern at Intility AS
-#### &nbsp; &nbsp; &nbsp;📍 Oslo 0191
+#### &nbsp; &nbsp; &nbsp;📍 Oslo, 0191
 #### &nbsp; &nbsp; &nbsp;⏱️ November 2023 -<br><br>
 ### 👷 Production manager at BitForge UB
 #### &nbsp; &nbsp; &nbsp;📍 Hamar, 2315
