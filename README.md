@@ -6,13 +6,13 @@
 <br>
 
 ## 🔡 MORE ABOUT ME:
-### 👷‍♂️ Intern at Intility AS
+### 👷‍♂️ Tech support intern @ Intility AS
 #### &nbsp; &nbsp; &nbsp;🗺️ Oslo, 0191
 #### &nbsp; &nbsp; &nbsp;📅 November 2023 -<br><br>
-### 👷 Production manager at BitForge UB
+### 👷 Production manager @ BitForge UB
 #### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2315
 #### &nbsp; &nbsp; &nbsp;📅 November 2023 -<br><br>
-### 👨‍💼 Student at Hamar katedralskole
+### 👨‍💼 Year 2 IT student @ Hamar katedralskole
 #### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2315
 #### &nbsp; &nbsp; &nbsp;📅 August 2022 -
 
