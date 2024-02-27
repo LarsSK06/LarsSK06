@@ -12,7 +12,7 @@
 ### 👷 Production manager @ BitForge UB
 #### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2315
 #### &nbsp; &nbsp; &nbsp;📅 November 2023 -<br><br>
-### 👨‍💼 Year 2 IT student @ Hamar katedralskole
+### 👨‍💼 IT student @ Hamar katedralskole
 #### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2315
 #### &nbsp; &nbsp; &nbsp;📅 August 2022 -
 
