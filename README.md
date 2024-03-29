@@ -1,11 +1,11 @@
 ## 👾 ABOUT ME:
 ### Hey, my name is Lars! 👋
 #### I am a Norwegian full-stack, game, application and web developer and designer.<br>Currently I go to IT at school, but I do most of work at home.
-#### Currently, I go to Hamar cathedral school, whilst being an part-time intern at Intility AS on tuesdays. I am also the production manager at our youth company BitForge UB, where we mostly do development for work.
+#### For now, I go to Hamar cathedral school, whilst being a part-time intern at Intility AS on tuesdays. I am also the production manager at our youth company BitForge UB, where we mostly do development for work.
 
 <br>
 
-## 🔡 MORE ABOUT ME:
+## 🔡 MY EXPERIENCE:
 ### 👷‍♂️ Tech support intern @ Intility AS
 #### &nbsp; &nbsp; &nbsp;🗺️ Oslo, 0191
 #### &nbsp; &nbsp; &nbsp;📅 November 2023 -<br><br>
@@ -18,7 +18,7 @@
 
 <br>
 
-## ⌨️ LANGUAGES:
+## ⌨️ LANGUAGES I USE:
 <div float="left">
     <a href="https://www.javascript.com/">
         <img src="md/img/js.svg" width="50">
@@ -57,7 +57,7 @@
 
 <br>
 
-## 🖥️ SOFTWARE & TOOLS:
+## 🖥️ SOFTWARE I USE:
 <div float="left">
     <a href="https://www.blender.org/">
         <img src="md/img/blender.svg" width="50">
