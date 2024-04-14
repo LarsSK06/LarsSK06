@@ -1,5 +1,5 @@
 ## 👾 ABOUT ME:
-### Hey, my name is Lars! 👋
+### Hey, my name is Lars!
 #### I am a Norwegian full-stack, game, application and web developer and designer.<br>Currently I go to IT at school, but I do most of work at home.
 #### For now, I go to Hamar cathedral school, whilst being a part-time intern at Intility AS on tuesdays. I am also the production manager at our youth company BitForge UB, where we mostly do development for work.
 
