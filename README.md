@@ -1,5 +1,4 @@
 ## 👾 ABOUT ME:
-### Hey, my name is Lars!
 #### I am a Norwegian full-stack, game, application and web developer and designer.<br>Currently I go to IT at school, but I do most of work at home.
 #### For now, I go to Hamar cathedral school, whilst being the production manager at our youth company BitForge UB, where we do mostly development for work.
 
@@ -26,8 +25,8 @@
     <a href="https://www.javascript.com/">
         <img src="md/img/ts.svg" width="50">
     </a>
-    <a href="https://isocpp.org/">
-        <img src="md/img/cpp.svg" width="50">
+    <a href="https://www.w3schools.com/c/c_intro.php">
+        <img src="md/img/c.svg" width="50">
     </a>
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
         <img src="md/img/cs.svg" width="50">
@@ -51,13 +50,16 @@
         <img src="md/img/ps.svg" width="50">
     </a>
     <a href="https://opensource.com/resources/what-bash">
-        <img src="md/img/bash.svg" width="50">
+        <img src="md/img/sh.svg" width="50">
+    </a>
+    <a href="https://www.rust-lang.org/">
+        <img src="md/img/rust.svg" width="50">
     </a>
 </div>
 
 <br>
 
-## 🖥️ SOFTWARE I USE:
+## 🖥️ TECHNOLOGIES I USE:
 <div float="left">
     <a href="https://www.blender.org/">
         <img src="md/img/blender.svg" width="50">
@@ -86,10 +88,28 @@
     <a href="https://www.postman.com/">
         <img src="md/img/postman.svg" width="50">
     </a>
-    <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_emea-no_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624542&adgroup=115749720903&cq_cmp=12212624542&gad_source=1&gclid=CjwKCAiAq4KuBhA6EiwArMAw1EAzFi8GKPqz9NQfC-sinqn5zYsdUPWCwzTa6A2-QKfjTFvmjdGacRoCm2wQAvD_BwE">
+    <a href="https://www.mongodb.com/">
         <img src="md/img/mongodb.svg" width="50">
     </a>
     <a href="https://figma.com/">
         <img src="md/img/figma.svg" width="50">
+    </a>
+    <a href="https://www.electronjs.org/">
+        <img src="md/img/electron.svg" width="50">
+    </a>
+    <a href="https://tauri.app/">
+        <img src="md/img/tauri.svg" width="50">
+    </a>
+    <a href="https://react.dev/">
+        <img src="md/img/react.svg" width="50">
+    </a>
+    <a href="https://svelte.dev/">
+        <img src="md/img/svelte.svg" width="50">
+    </a>
+    <a href="https://expressjs.com/">
+        <img src="md/img/express.svg" width="50">
+    </a>
+    <a href="https://pyinstaller.org/en/v4.8/usage.html">
+        <img src="md/img/pyinstaller.svg" width="50">
     </a>
 </div>
