@@ -40,6 +40,9 @@
     <a href="https://www.python.org/">
         <img src="md/img/py.svg" width="50">
     </a>
+    <a href="https://www.rust-lang.org/">
+        <img src="md/img/rust.svg" width="50">
+    </a>
     <a href="https://www.lua.org/">
         <img src="md/img/lua.svg" width="50">
     </a>
@@ -51,9 +54,6 @@
     </a>
     <a href="https://opensource.com/resources/what-bash">
         <img src="md/img/sh.svg" width="50">
-    </a>
-    <a href="https://www.rust-lang.org/">
-        <img src="md/img/rust.svg" width="50">
     </a>
 </div>
 
