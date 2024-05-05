@@ -22,7 +22,7 @@
     <a href="https://www.javascript.com/">
         <img src="md/img/js.svg" width="50">
     </a>
-    <a href="https://www.javascript.com/">
+    <a href="https://www.typescriptlang.org/">
         <img src="md/img/ts.svg" width="50">
     </a>
     <a href="https://www.w3schools.com/c/c_intro.php">
