@@ -1,7 +1,7 @@
 ## 👾 ABOUT ME:
 #### I am a Norwegian full-stack, game, application and web developer and designer.<br>Currently I go to IT at school, but I do most of work at home.
 #### For now, I go to Hamar cathedral school, whilst being the production manager at our youth company BitForge UB, where we do mostly development for work.
-#### At the time of writing this, I am working on Tauri and Rust.
+#### At the time of writing this, I am working on Tauri, Rust and SSH Public Key Authentication.
 
 <br>
 
