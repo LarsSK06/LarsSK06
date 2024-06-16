@@ -11,7 +11,7 @@
 #### &nbsp; &nbsp; &nbsp;📅 November, 2023 - April, 2024<br><br>
 ### 👷 Production manager @ BitForge UB
 #### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2315
-#### &nbsp; &nbsp; &nbsp;📅 November, 2023 -<br><br>
+#### &nbsp; &nbsp; &nbsp;📅 November, 2023 - June, 2024<br><br>
 ### 👨‍💼 IT student @ Hamar cathedral school
 #### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2315
 #### &nbsp; &nbsp; &nbsp;📅 August, 2022 -
@@ -79,9 +79,6 @@
     </a>
     <a href="https://www.adobe.com/no/products/aftereffects/landpb.html?gclid=CjwKCAiAq4KuBhA6EiwArMAw1O2f0ndsWoe976kuIxOHTnpZqXsgkcqnvIQamlSfZUj8JBpbV2JjJBoC5gIQAvD_BwE&mv=search&mv=search&mv2=paidsearch&sdid=G85SYKHF&ef_id=CjwKCAiAq4KuBhA6EiwArMAw1O2f0ndsWoe976kuIxOHTnpZqXsgkcqnvIQamlSfZUj8JBpbV2JjJBoC5gIQAvD_BwE:G:s&s_kwcid=AL!3085!3!597212105440!e!!g!!adobe%20after%20effects!1471316602!57366244312&gad_source=1">
         <img src="md/img/adobe_ae.svg" width="50">
-    </a>
-    <a href="https://www.adobe.com/no/products/indesign/landpb.html?gclid=CjwKCAiAq4KuBhA6EiwArMAw1CR_wGe1b0wT_2OaiNrLryUmRKITw7oCIWo0LyblGpKVnYPaM1CDlhoCT80QAvD_BwE&mv=search&mv=search&mv2=paidsearch&sdid=HVQ7WXXZ&ef_id=CjwKCAiAq4KuBhA6EiwArMAw1CR_wGe1b0wT_2OaiNrLryUmRKITw7oCIWo0LyblGpKVnYPaM1CDlhoCT80QAvD_BwE:G:s&s_kwcid=AL!3085!3!597168709350!e!!g!!adobe%20indesign!1471316830!58668989204&gad_source=1">
-        <img src="md/img/adobe_id.svg" width="50">
     </a>
     <a href="https://code.visualstudio.com/">
         <img src="md/img/vscode.svg" width="50">
