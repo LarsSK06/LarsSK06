@@ -1,7 +1,6 @@
 ## 👾 ABOUT ME:
-#### I am a Norwegian full-stack, game, application and web developer and designer.<br>Currently I go to IT at school, but I do most of work at home.
-#### For now, I go to Hamar cathedral school, whilst being the production manager at our youth company BitForge UB, where we do mostly development for work.
-#### At the time of writing this, I am working on Tauri, Rust and SSH Public Key Authentication.
+#### I am a Norwegian full-stack, game, application and web developer and designer. Currently I work from home, but I am a soon-to-be apprentice.
+#### Previously, I was a student at Hamar cathedral school, where I followed the IT line of education. I was also the production manager at our youth company BitForge UB at the same school.
 
 <br>
 
@@ -14,7 +13,7 @@
 #### &nbsp; &nbsp; &nbsp;📅 November, 2023 - June, 2024<br><br>
 ### 👨‍💼 IT student @ Hamar cathedral school
 #### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2315
-#### &nbsp; &nbsp; &nbsp;📅 August, 2022 -
+#### &nbsp; &nbsp; &nbsp;📅 August, 2022 - June, 2024
 
 <br>
 
