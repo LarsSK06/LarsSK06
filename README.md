@@ -1,5 +1,5 @@
 ## 👾 ABOUT ME:
-#### I am a Norwegian full-stack, game, application and web developer and designer. At this time, I work from home, but I am a soon-to-be apprentice.
+#### I am a Norwegian full-stack, game, application and web developer and designer. At this time, I am a developer apprentice at Arribatec.
 #### Previously, I was a student at Hamar cathedral school, where I followed the IT line of education. I was also the production manager at our youth company BitForge UB at the same school, and a part-time intern at Intility AS in Oslo.
 
 <br>
