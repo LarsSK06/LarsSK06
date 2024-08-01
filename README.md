@@ -1,7 +1,6 @@
 ## 👾 ABOUT ME:
 #### I am a Norwegian full-stack, game, application and web developer and designer. At this time, I work from home, but I am a soon-to-be apprentice.
 #### Previously, I was a student at Hamar cathedral school, where I followed the IT line of education. I was also the production manager at our youth company BitForge UB at the same school, and a part-time intern at Intility AS in Oslo.
-#### At the time of writing this, I am working with Svelte.
 
 <br>
 
@@ -15,6 +14,9 @@
 ### 👨‍💼 IT student @ Hamar cathedral school
 #### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2315
 #### &nbsp; &nbsp; &nbsp;📅 August, 2022 - June, 2024
+### 👨‍🔬 Developer apprentice @ Arribatec
+#### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2317
+#### &nbsp; &nbsp; &nbsp;📅 August, 2024 -
 
 <br>
 
