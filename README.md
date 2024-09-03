@@ -103,8 +103,11 @@
     <a href="https://react.dev/">
         <img src="md/img/react.svg" width="50">
     </a>
-    <a href="https://svelte.dev/">
-        <img src="md/img/svelte.svg" width="50">
+    <a href="https://react.dev/">
+        <img src="md/img/react.svg" width="50">
+    </a>
+    <a href="https://tailwindcss.com/">
+        <img src="md/img/tailwind.svg" width="50">
     </a>
     <a href="https://expressjs.com/">
         <img src="md/img/express.svg" width="50">
