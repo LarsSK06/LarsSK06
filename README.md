@@ -13,7 +13,7 @@
 #### &nbsp; &nbsp; &nbsp;📅 November, 2023 - June, 2024<br><br>
 ### 👨‍💼 IT student @ Hamar cathedral school
 #### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2315
-#### &nbsp; &nbsp; &nbsp;📅 August, 2022 - June, 2024
+#### &nbsp; &nbsp; &nbsp;📅 August, 2022 - June, 2024<br><br>
 ### 👨‍🔬 Developer apprentice @ Arribatec
 #### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2317
 #### &nbsp; &nbsp; &nbsp;📅 August, 2024 -
