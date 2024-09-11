@@ -1,14 +1,14 @@
 ## 👾 ABOUT ME:
 #### I am a Norwegian full-stack, game, application and web developer and designer. At this time, I am a developer apprentice at Arribatec.
-#### Previously, I was a student at Hamar cathedral school, where I followed the IT line of education. I was also the production manager at our youth company BitForge UB at the same school, and a part-time intern at Intility AS in Oslo.
+#### Previously, I was a student at Hamar cathedral school, where I followed the IT line of education. I was also the production manager at our youth company BitForge at the same school, and a part-time intern at Intility in Oslo.
 
 <br>
 
 ## 🔡 MY EXPERIENCE:
-### 👷‍♂️ Tech support intern @ Intility AS
+### 👷‍♂️ Tech support intern @ Intility
 #### &nbsp; &nbsp; &nbsp;🗺️ Oslo, 0191
 #### &nbsp; &nbsp; &nbsp;📅 November, 2023 - April, 2024<br><br>
-### 👷 Production manager @ BitForge UB
+### 👷 Production manager @ BitForge
 #### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2315
 #### &nbsp; &nbsp; &nbsp;📅 November, 2023 - June, 2024<br><br>
 ### 👨‍💼 IT student @ Hamar cathedral school
