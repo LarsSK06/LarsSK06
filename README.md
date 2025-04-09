@@ -58,4 +58,6 @@
     <a href="https://svelte.dev/"><img src="md/img/svelte.svg" width="50"></a>
     <a href="https://expressjs.com/"><img src="md/img/express.svg" width="50"></a>
     <a href="https://pyinstaller.org/en/v4.8/usage.html"><img src="md/img/pyinstaller.svg" width="50"></a>
+    <a href="https://dotnet.microsoft.com"><img src="md/img/dotnet.svg" width="50"></a>
+    <a href="https://next-auth.js.org/"><img src="md/img/nextauth.png" width="50"></a>
 </div>
