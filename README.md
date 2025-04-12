@@ -1,63 +1,89 @@
-## 👾 ABOUT ME:
+# 👾 About me
 #### I am a Norwegian full-stack, game, application and web developer and designer. At this time, I am a developer apprentice at Arribatec.
-#### Previously, I was a student at Hamar cathedral school, where I followed the IT line of education. I was also the production manager at our youth company BitForge at the same school, and a part-time intern at Intility in Oslo.
 
-<br>
+<br />
+<br />
 
-## 🔡 MY EXPERIENCE:
-### 👷‍♂️ Tech support intern @ Intility
-#### &nbsp; &nbsp; &nbsp;🗺️ Oslo, 0191
-#### &nbsp; &nbsp; &nbsp;📅 November, 2023 - April, 2024<br><br>
-### 👷 Production manager @ BitForge
-#### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2315
-#### &nbsp; &nbsp; &nbsp;📅 November, 2023 - June, 2024<br><br>
+# 🔡 My experience
+### 👷‍♂️ Tech support intern @ Intility AS
+### 👷 Production manager @ BitForge UB
 ### 👨‍💼 IT student @ Hamar cathedral school
-#### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2315
-#### &nbsp; &nbsp; &nbsp;📅 August, 2022 - June, 2024<br><br>
-### 👨‍🔬 Developer apprentice @ Arribatec
-#### &nbsp; &nbsp; &nbsp;🗺️ Hamar, 2317
-#### &nbsp; &nbsp; &nbsp;📅 August, 2024 -
+### 👨‍🔬 Developer apprentice @ Arribatec Norway AS
 
-<br>
+<br />
+<br />
 
-## ⌨️ LANGUAGES I USE:
-<div float="left">
-    <a href="https://www.javascript.com/"><img src="md/img/js.svg" width="50"></a>
-    <a href="https://www.typescriptlang.org/"><img src="md/img/ts.svg" width="50"></a>
-    <a href="https://www.w3schools.com/c/c_intro.php"><img src="md/img/c.svg" width="50"></a>
-    <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="md/img/cs.svg" width="50"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="md/img/html.svg" width="50"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="md/img/css.svg" width="50"></a>
-    <a href="https://www.python.org/"><img src="md/img/py.svg" width="50"></a>
-    <a href="https://www.rust-lang.org/"><img src="md/img/rust.svg" width="50"></a>
-    <a href="https://www.lua.org/"><img src="md/img/lua.svg" width="50"></a>
-    <a href="https://www.geeksforgeeks.org/basics-of-batch-scripting/"><img src="md/img/bat.svg" width="50"></a>
-    <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4"><img src="md/img/ps.svg" width="50"></a>
-    <a href="https://opensource.com/resources/what-bash"><img src="md/img/sh.svg" width="50"></a>
-</div>
+# 💻 My go-to techs
 
-<br>
+### Native app development
+<a title="Tauri" href="https://tauri.app/">
+    <img src="./md/img/tauri.svg" height="50" />
+</a>
+<a title=".NET" href="https://dotnet.microsoft.com/en-us/">
+    <img src="./md/img/dotnet.svg" height="50" />
+</a>
+<a title="Python" href="https://www.python.org/">
+    <img src="./md/img/python.svg" height="50" />
+</a>
 
-## 🖥️ TECHNOLOGIES I USE:
-<div float="left">
-    <a href="https://www.blender.org/"><img src="md/img/blender.svg" width="50"></a>
-    <a href="https://unity.com/"><img src="md/img/unity.svg" width="50"></a>
-    <a href="https://www.adobe.com/no/products/illustrator/campaign/pricing.html?gclid=CjwKCAiAq4KuBhA6EiwArMAw1IfnwKIq3tN61kPeIRxY4wSZ-Zd0FNXV5N_hskuICvflzNW6SbruSRoCFMsQAvD_BwE&mv=search&mv=search&mv2=paidsearch&sdid=GMCWY69B&ef_id=CjwKCAiAq4KuBhA6EiwArMAw1IfnwKIq3tN61kPeIRxY4wSZ-Zd0FNXV5N_hskuICvflzNW6SbruSRoCFMsQAvD_BwE:G:s&s_kwcid=AL!3085!3!597287462549!e!!g!!adobe%20illustrator!1480122696!60147184954&gad_source=1"><img src="md/img/adobe_ai.svg" width="50"></a>
-    <a href="https://www.adobe.com/no/products/photoshop/landpa.html?gclid=CjwKCAiAq4KuBhA6EiwArMAw1HeMsUrZn60vIxW56FBT4Q7_S1c130w-yLsgJJXbxgPY1kxF-NDlVxoCZGoQAvD_BwE&mv=search&mv=search&mv2=paidsearch&sdid=2XBSBWBF&ef_id=CjwKCAiAq4KuBhA6EiwArMAw1HeMsUrZn60vIxW56FBT4Q7_S1c130w-yLsgJJXbxgPY1kxF-NDlVxoCZGoQAvD_BwE:G:s&s_kwcid=AL!3085!3!474194483951!e!!g!!adobe%20photoshop!1471316782!58669001444&gad_source=1"><img src="md/img/adobe_ps.svg" width="50"></a>
-    <a href="https://www.adobe.com/no/products/premiere/campaign/pricing.html?gclid=CjwKCAiAq4KuBhA6EiwArMAw1Iiku1_Rr9jNBxdi_2mS418MorfDzIq4VGWXBJiNfth_SXKcp_FG7BoCBNMQAvD_BwE&mv=search&mv=search&mv2=paidsearch&sdid=G4FRYP7G&ef_id=CjwKCAiAq4KuBhA6EiwArMAw1Iiku1_Rr9jNBxdi_2mS418MorfDzIq4VGWXBJiNfth_SXKcp_FG7BoCBNMQAvD_BwE:G:s&s_kwcid=AL!3085!3!340868332463!e!!g!!adobe%20premiere%20pro!1471316863!58669011724&gad_source=1"><img src="md/img/adobe_pr.svg" width="50"></a>
-    <a href="https://www.adobe.com/no/products/aftereffects/landpb.html?gclid=CjwKCAiAq4KuBhA6EiwArMAw1O2f0ndsWoe976kuIxOHTnpZqXsgkcqnvIQamlSfZUj8JBpbV2JjJBoC5gIQAvD_BwE&mv=search&mv=search&mv2=paidsearch&sdid=G85SYKHF&ef_id=CjwKCAiAq4KuBhA6EiwArMAw1O2f0ndsWoe976kuIxOHTnpZqXsgkcqnvIQamlSfZUj8JBpbV2JjJBoC5gIQAvD_BwE:G:s&s_kwcid=AL!3085!3!597212105440!e!!g!!adobe%20after%20effects!1471316602!57366244312&gad_source=1"><img src="md/img/adobe_ae.svg" width="50"></a>
-    <a href="https://code.visualstudio.com/"><img src="md/img/vscode.svg" width="50"></a>
-    <a href="https://www.postman.com/"><img src="md/img/postman.svg" width="50"></a>
-    <a href="https://www.mongodb.com/"><img src="md/img/mongodb.svg" width="50"></a>
-    <a href="https://figma.com/"><img src="md/img/figma.svg" width="50"></a>
-    <a href="https://www.electronjs.org/"><img src="md/img/electron.svg" width="50"></a>
-    <a href="https://tauri.app/"><img src="md/img/tauri.svg" width="50"></a>
-    <a href="https://react.dev/"><img src="md/img/react.svg" width="50"></a>
-    <a href="https://nextjs.org/"><img src="md/img/nextjs.svg" width="50"></a>
-    <a href="https://tailwindcss.com/"><img src="md/img/tailwind.svg" width="50"></a>
-    <a href="https://svelte.dev/"><img src="md/img/svelte.svg" width="50"></a>
-    <a href="https://expressjs.com/"><img src="md/img/express.svg" width="50"></a>
-    <a href="https://pyinstaller.org/en/v4.8/usage.html"><img src="md/img/pyinstaller.svg" width="50"></a>
-    <a href="https://dotnet.microsoft.com"><img src="md/img/dotnet.svg" width="50"></a>
-    <a href="https://next-auth.js.org/"><img src="md/img/nextauth.png" width="50" height="50"></a>
-</div>
+<br />
+
+### Frontend and web development
+<a title="Next.JS" href="https://nextjs.org/">
+    <img src="./md/img/next-js.svg" height="50" />
+</a>
+<a title="Mantine UI" href="https://ui.mantine.dev/">
+    <img src="./md/img/mantine-ui.svg" height="50" />
+</a>
+<a title="Nextauth" href="https://next-auth.js.org/">
+    <img src="./md/img/nextauth.svg" height="50" />
+</a>
+<a title="Tailwind CSS" href="https://tailwindcss.com/">
+    <img src="./md/img/tailwind.svg" height="50" />
+</a>
+<a title="I18next" href="https://www.i18next.com/">
+    <img src="./md/img/i18next.svg" height="50" />
+</a>
+
+<br />
+
+### Backend development
+<a title=".NET" href="https://dotnet.microsoft.com/en-us/">
+    <img src="./md/img/dotnet.svg" height="50" />
+</a>
+<a title="SQL Server" href="https://www.microsoft.com/sql-server">
+    <img src="./md/img/sql-server.svg" height="50" />
+</a>
+<a title="Mongo DB" href="https://www.mongodb.com/">
+    <img src="./md/img/mongo-db.svg" height="50" />
+</a>
+
+<br />
+
+### Automation
+<a title="GitHub Actions" href="https://github.com/features/actions">
+    <img src="./md/img/github-actions.svg" height="50" />
+</a>
+
+<br />
+
+### Branding and UI
+<a title="Adobe Illustrator" href="https://www.adobe.com/no/products/illustrator.html">
+    <img src="./md/img/illustrator.svg" height="50" />
+</a>
+<a title="Adobe Photoshop" href="https://www.adobe.com/no/products/photoshop.html">
+    <img src="./md/img/photoshop.svg" height="50" />
+</a>
+
+<br />
+
+### Developer tools
+<a title="Git" href="https://git-scm.com/">
+    <img src="./md/img/git.svg" height="50" />
+</a>
+<a title="Visual Studio Code" href="https://code.visualstudio.com/">
+    <img src="./md/img/vscode.svg" height="50" />
+</a>
+<a title="Postman" href="https://www.getpostman.com/">
+    <img src="./md/img/postman.svg" height="50" />
+</a>
