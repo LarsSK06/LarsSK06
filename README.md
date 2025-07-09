@@ -19,6 +19,7 @@
 <a title="Tauri" href="https://tauri.app/"><img src="./md/img/tauri.svg" height="50" /></a>
 <a title=".NET" href="https://dotnet.microsoft.com/en-us/"><img src="./md/img/dotnet.svg" height="50" /></a>
 <a title="Python" href="https://www.python.org/"><img src="./md/img/python.svg" height="50" /></a>
+<a title="SQLite" href="https://sqlite.org"><img src="./md/img/sqlite.svg" height="50" /></a>
 
 <br />
 
@@ -34,6 +35,7 @@
 ### Backend development
 <a title=".NET" href="https://dotnet.microsoft.com/en-us/"><img src="./md/img/dotnet.svg" height="50" /></a>
 <a title="SQL Server" href="https://www.microsoft.com/sql-server"><img src="./md/img/sql-server.svg" height="50" /></a>
+<a title="PostgreSQL" href="https://www.postgresql.org"><img src="./md/img/postgresql.svg" height="50" /></a>
 <a title="Mongo DB" href="https://www.mongodb.com/"><img src="./md/img/mongo-db.svg" height="50" /></a>
 <a title="Resend" href="https://resend.com/"><img src="./md/img/resend.svg" height="50" /></a>
 
