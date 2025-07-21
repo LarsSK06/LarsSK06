@@ -34,7 +34,6 @@
 
 ### Backend development
 <a title=".NET" href="https://dotnet.microsoft.com/en-us/"><img src="./md/img/dotnet.svg" height="50" /></a>
-<a title="SQL Server" href="https://www.microsoft.com/sql-server"><img src="./md/img/sql-server.svg" height="50" /></a>
 <a title="PostgreSQL" href="https://www.postgresql.org"><img src="./md/img/postgresql.svg" height="50" /></a>
 <a title="Mongo DB" href="https://www.mongodb.com/"><img src="./md/img/mongo-db.svg" height="50" /></a>
 <a title="Resend" href="https://resend.com/"><img src="./md/img/resend.svg" height="50" /></a>
@@ -49,8 +48,9 @@
 <br />
 
 ### Branding and UI
-<a title="Adobe Illustrator" href="https://www.adobe.com/no/products/illustrator.html"><img src="./md/img/illustrator.svg" height="50" /></a>
-<a title="Adobe Photoshop" href="https://www.adobe.com/no/products/photoshop.html"><img src="./md/img/photoshop.svg" height="50" /></a>
+<a title="Affinity Designer" href="https://affinity.serif.com/designer"><img src="./md/img/affinity-designer.svg" height="50" /></a>
+<a title="Affinity Publisher" href="https://affinity.serif.com/publisher"><img src="./md/img/affinity-publisher.svg" height="50" /></a>
+<a title="Affinity Photo" href="https://affinity.serif.com/photo"><img src="./md/img/affinity-photo.svg" height="50" /></a>
 
 <br />
 
