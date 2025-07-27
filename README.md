@@ -58,3 +58,4 @@
 <a title="Git" href="https://git-scm.com/"><img src="./md/img/git.svg" height="50" /></a>
 <a title="Visual Studio Code" href="https://code.visualstudio.com/"><img src="./md/img/vscode.svg" height="50" /></a>
 <a title="Postman" href="https://www.getpostman.com/"><img src="./md/img/postman.svg" height="50" /></a>
+<a title="Denox" href="https://github.com/LarsSK06/denox#readme"><img src="./md/img/denox.svg" height="50" /></a>
