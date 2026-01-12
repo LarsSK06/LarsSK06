@@ -33,16 +33,16 @@
 <br />
 
 ### Backend development
+<a title="Next.JS" href="https://nextjs.org/"><img src="./md/img/next-js.svg" height="50" /></a>
 <a title=".NET" href="https://dotnet.microsoft.com/en-us/"><img src="./md/img/dotnet.svg" height="50" /></a>
 <a title="PostgreSQL" href="https://www.postgresql.org"><img src="./md/img/postgresql.svg" height="50" /></a>
 <a title="Mongo DB" href="https://www.mongodb.com/"><img src="./md/img/mongo-db.svg" height="50" /></a>
-<a title="Resend" href="https://resend.com/"><img src="./md/img/resend.svg" height="50" /></a>
+<a title="Sweego" href="https://www.sweego.io"><img src="./md/img/sweego.svg" height="50" /></a>
 
 <br />
 
 ### Automation and deployment
 <a title="GitHub Actions" href="https://github.com/features/actions"><img src="./md/img/github-actions.svg" height="50" /></a>
-<a title="Render" href="https://render.com"><img src="./md/img/render.svg" height="50" /></a>
 <a title="Netlify" href="https://netlify.com"><img src="./md/img/netlify.svg" height="50" /></a>
 
 <br />
