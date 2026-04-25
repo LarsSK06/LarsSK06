@@ -24,7 +24,7 @@
 <br />
 
 ### Frontend and web development
-<a title="Next.JS" href="https://nextjs.org/"><img src="./md/img/next-js.svg" height="50" /></a>
+<a title="Next.js" href="https://nextjs.org/"><img src="./md/img/next-js.svg" height="50" /></a>
 <a title="Mantine UI" href="https://ui.mantine.dev/"><img src="./md/img/mantine-ui.svg" height="50" /></a>
 <a title="Nextauth" href="https://next-auth.js.org/"><img src="./md/img/nextauth.svg" height="50" /></a>
 <a title="Tailwind CSS" href="https://tailwindcss.com/"><img src="./md/img/tailwind.svg" height="50" /></a>
@@ -33,7 +33,7 @@
 <br />
 
 ### Backend development
-<a title="Next.JS" href="https://nextjs.org/"><img src="./md/img/next-js.svg" height="50" /></a>
+<a title="Next.js" href="https://nextjs.org/"><img src="./md/img/next-js.svg" height="50" /></a>
 <a title=".NET" href="https://dotnet.microsoft.com/en-us/"><img src="./md/img/dotnet.svg" height="50" /></a>
 <a title="PostgreSQL" href="https://www.postgresql.org"><img src="./md/img/postgresql.svg" height="50" /></a>
 <a title="Mongo DB" href="https://www.mongodb.com/"><img src="./md/img/mongo-db.svg" height="50" /></a>
@@ -41,9 +41,12 @@
 
 <br />
 
-### Automation and deployment
+### Automation, deployment and hosting
 <a title="GitHub Actions" href="https://github.com/features/actions"><img src="./md/img/github-actions.svg" height="50" /></a>
 <a title="Netlify" href="https://netlify.com"><img src="./md/img/netlify.svg" height="50" /></a>
+<a title="Hetzner" href="https://www.hetzner.com/cloud/"><img src="./md/img/hetzner.svg" height="50" /></a>
+<a title="Coolify" href="https://coolify.io"><img src="./md/img/coolify.svg" height="50" /></a>
+<a title="N8N" href="https://n8n.io"><img src="./md/img/n8n.svg" height="50" /></a>
 
 <br />
 
