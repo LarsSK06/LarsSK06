@@ -1,5 +1,5 @@
 ## 👾 About me
-##### I am a Norwegian full-stack, game, application and web developer and designer. At this time, I am a developer apprentice at Arribatec.
+##### I am a Norwegian full-stack, game, application and web developer and designer.
 
 <br />
 <br />
